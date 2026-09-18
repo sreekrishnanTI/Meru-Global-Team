@@ -1,0 +1,513 @@
+{
+  "homepage": {
+    "heroTitle": "Reaching the Unreached",
+    "heroSubtitle": "Connecting generations to the Great Commission",
+    "heroImagePath": "",
+    "heroVideoUrl": "",
+    "logoRotation": true,
+    "aboutTitle": "Reaching the Unreached, Connecting generations to the great commission.",
+    "aboutSubtitle": "ABOUT US",
+    "aboutOverview": "Through our dedicated programs and global network, we bridge geographical and cultural gaps to bring hope and community transformation.",
+    "aboutMissionTitle": "Our Mission",
+    "aboutMissionText": "To mobilize, equip, and commission youth and professionals across nations to reach communities with sustainable hope.",
+    "aboutVisionTitle": "Our Vision",
+    "aboutVisionText": "A connected global community empowered by sustainable leadership, cultural understanding, and high-impact education.",
+    "donationTitle": "Help Meru reach more communities",
+    "donationSubtitle": "Your contribution supports global exchange access, youth leadership programs, and outreach for learners and communities who need opportunity most.",
+    "tickerItems": [
+      {
+        "id": "1",
+        "label": "EXPANSION",
+        "date": "MAY 2026",
+        "text": "New regional partnership center established in Bogota, Colombia.",
+        "color": "blue",
+        "displayOrder": 1,
+        "active": true
+      },
+      {
+        "id": "2",
+        "label": "ADMISSIONS",
+        "date": "OPEN NOW",
+        "text": "Tokyo 2026 Global Academic Exchange applications are officially live.",
+        "color": "purple",
+        "displayOrder": 2,
+        "active": true
+      },
+      {
+        "id": "3",
+        "label": "PRESS",
+        "date": "FEATURED",
+        "text": "Dr. George Pappachen keynote scheduled for European Missions Congress.",
+        "color": "emerald",
+        "displayOrder": 3,
+        "active": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "1",
+        "target": 48,
+        "suffix": "+",
+        "label": "Global Programs",
+        "displayOrder": 1
+      },
+      {
+        "id": "2",
+        "target": 12000,
+        "suffix": "+",
+        "label": "Delegates Trained",
+        "displayOrder": 2
+      },
+      {
+        "id": "3",
+        "target": 35,
+        "suffix": "",
+        "label": "Nations Reached",
+        "displayOrder": 3
+      },
+      {
+        "id": "4",
+        "target": 98,
+        "suffix": "%",
+        "label": "Impact Retention",
+        "displayOrder": 4
+      }
+    ],
+    "values": [
+      {
+        "id": "1",
+        "title": "Cultural Integrity",
+        "desc": "Respecting local heritage while nurturing cross-border leadership and mutual exchange.",
+        "icon": "Compass",
+        "displayOrder": 1
+      },
+      {
+        "id": "2",
+        "title": "Empowered Leadership",
+        "desc": "Mobilizing youth and executives with verified frameworks and auditable standards.",
+        "icon": "ShieldCheck",
+        "displayOrder": 2
+      },
+      {
+        "id": "3",
+        "title": "Global Fellowship",
+        "desc": "Connecting academic institutions, corporate sponsors, and community pioneers worldwide.",
+        "icon": "Users",
+        "displayOrder": 3
+      },
+      {
+        "id": "4",
+        "title": "Sustainable Impact",
+        "desc": "Designing educational and missions programs that continue generating value for generations.",
+        "icon": "HeartHandshake",
+        "displayOrder": 4
+      }
+    ],
+    "lastUpdated": "2026-09-17T17:20:59.520Z"
+  },
+  "programs": [
+    {
+      "id": "1",
+      "title": "Global Exchange Seminar (Tokyo)",
+      "slug": "global-exchange-seminar-tokyo",
+      "category": "exchange",
+      "tag": "Academic Exchange",
+      "desc": "An intensive 4-week cultural immersion and technical research seminar hosted in collaboration with university partners in Shinjuku, Tokyo.",
+      "eligibility": "Enrolled university students or recent graduates (within 2 years). Basic English proficiency. Open to all majors.",
+      "benefits": [
+        "8 ECTS Academic Credits",
+        "Tokyo Chamber of Commerce Certificate",
+        "Company site tours (SoftBank, Sony)",
+        "1-on-1 alumni mentorship"
+      ],
+      "gradient": "from-blue-400 to-indigo-500",
+      "location": "Shinjuku, Tokyo, Japan",
+      "duration": "4 Weeks",
+      "startDate": "Fall 2026",
+      "featured": true,
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "title": "Cross-Cultural Communications (Munich)",
+      "slug": "cross-cultural-communications-munich",
+      "category": "exchange",
+      "tag": "Academic Exchange",
+      "desc": "Explores multinational operations and communication behaviors within European business markets, hosted in Munich, Germany.",
+      "eligibility": "Senior undergraduates, graduates, or young corporate recruits. IELTS 6.5 or equivalent recommended.",
+      "benefits": [
+        "6 ECTS Academic Credits",
+        "European Business Communications Cert",
+        "Intercultural team workshops",
+        "Munich startup hub networks"
+      ],
+      "gradient": "from-sky-400 to-blue-600",
+      "location": "Munich, Germany",
+      "duration": "6 Weeks",
+      "startDate": "Spring 2026",
+      "featured": true,
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "title": "Executive Corporate Governance",
+      "slug": "executive-corporate-governance",
+      "category": "corporate",
+      "tag": "Corporate Excellence",
+      "desc": "Geared towards managers and governance officers looking to implement compliance framework designs and sustainable ESG policies.",
+      "eligibility": "Minimum 3 years of executive or managerial experience. Corporate sponsorship accepted.",
+      "benefits": [
+        "Meru Governance Certificate",
+        "Framework architectures library access",
+        "Executive roundtable session in London",
+        "Continuous corporate audit checklist"
+      ],
+      "gradient": "from-purple-400 to-pink-500",
+      "location": "London Headquarters / Hybrid",
+      "duration": "3 Months",
+      "startDate": "Ongoing Cohorts",
+      "featured": true,
+      "displayOrder": 3
+    },
+    {
+      "id": "4",
+      "title": "Resilient Leadership Architecture",
+      "slug": "resilient-leadership-architecture",
+      "category": "corporate",
+      "tag": "Corporate Excellence",
+      "desc": "Equips teams with strategic risk assessment models, crisis management pathways, and communication protocols during organizational pivots.",
+      "eligibility": "Project managers, department leads, and senior team members.",
+      "benefits": [
+        "Crisis Resilience Certification",
+        "Risk mapping software subscription",
+        "4 live workshops with industry auditors",
+        "Peer advisory access"
+      ],
+      "gradient": "from-violet-400 to-fuchsia-600",
+      "location": "Virtual & Regional Hubs",
+      "duration": "8 Weeks",
+      "startDate": "Quarterly",
+      "featured": false,
+      "displayOrder": 4
+    },
+    {
+      "id": "5",
+      "title": "Civic Youth Fellowship",
+      "slug": "civic-youth-fellowship",
+      "category": "youth",
+      "tag": "Youth Leadership",
+      "desc": "A selective 6-month incubator backing community project proposals with seed metrics, leadership resources, and policy coaching.",
+      "eligibility": "Ages 18 to 30. Active member of a community group or local nonprofit. A project proposal brief is required.",
+      "benefits": [
+        "$2,000 Project Seed Grant eligibility",
+        "6 months of policy mentorship",
+        "Civic Leadership Congress delegate status",
+        "Public relations training"
+      ],
+      "gradient": "from-emerald-400 to-teal-500",
+      "location": "Regional Hubs & Online",
+      "duration": "6 Months",
+      "startDate": "July 2026",
+      "featured": true,
+      "displayOrder": 5
+    },
+    {
+      "id": "6",
+      "title": "Social Enterprise Accelerator",
+      "slug": "social-enterprise-accelerator",
+      "category": "youth",
+      "tag": "Youth Leadership",
+      "desc": "Helps early-stage social founders refine business plans, build pitch decks, and raise operational capital.",
+      "eligibility": "Founders of registered social businesses, B-corps, or non-profits less than 2 years old.",
+      "benefits": [
+        "Pitch deck feedback from impact VCs",
+        "Venture modeling toolkit",
+        "Meru Impact Certificate",
+        "Alumni registry membership"
+      ],
+      "gradient": "from-teal-400 to-emerald-600",
+      "location": "Global Virtual Accelerator",
+      "duration": "12 Weeks",
+      "startDate": "September 2026",
+      "featured": false,
+      "displayOrder": 6
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "quote": "The Civic Youth Fellowship provided the exact funding metrics and legal support networks I needed to build my nonprofit in Colombia. It changed our trajectory entirely.",
+      "author": "Mateo Silva",
+      "role": "Founder, Ecos Col",
+      "organization": "Ecos Col",
+      "rating": 5,
+      "category": "youth",
+      "program": "youth",
+      "region": "South America",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "quote": "Instructors in the Munich communications program were top-tier experts. Academic credits transferred to my home college without any administrative friction.",
+      "author": "Lara Schmidt",
+      "role": "Exchange Scholar",
+      "organization": "Munich Academic Council",
+      "rating": 4,
+      "category": "academic",
+      "program": "exchange",
+      "region": "Europe",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "quote": "Corporate governance programs offered by Meru are concise, highly practical, and packed with auditable frameworks. Our compliance scores improved dramatically.",
+      "author": "Robert Chen",
+      "role": "Compliance Director",
+      "organization": "Apex Logix",
+      "rating": 5,
+      "category": "corporate",
+      "program": "corporate",
+      "region": "Asia-Pacific",
+      "displayOrder": 3
+    },
+    {
+      "id": "4",
+      "quote": "Reaching the unreached is not just a motto for Meru; they live it. Their scholarship support made it possible for 8 of our rural coordinators to study exchange.",
+      "author": "Amina Yusuf",
+      "role": "Admissions Lead",
+      "organization": "Lagos Civic Board",
+      "rating": 5,
+      "category": "academic",
+      "program": "youth",
+      "region": "Africa",
+      "displayOrder": 4
+    }
+  ],
+  "videoTestimonials": [
+    {
+      "id": "1",
+      "title": "My Academic Journey in Tokyo Shinjuku Center",
+      "speaker": "Sofia Rodriguez",
+      "role": "Tokyo Exchange Alumni",
+      "organization": "Class of 2025",
+      "details": "Tokyo Exchange Alumni, Class of 2025",
+      "duration": "3:42",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "category": "academic",
+      "quote": "Living in Shinjuku and presenting research directly to Japanese academic faculties changed my worldview forever.",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "title": "Reshaping our Corporate ESG Policies",
+      "speaker": "David Vance",
+      "role": "VP of Talent",
+      "organization": "Novis Corp",
+      "details": "VP of Talent at Novis Corp",
+      "duration": "5:15",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "category": "corporate",
+      "quote": "The governance models provided by Meru allowed us to overhaul our audit architecture in under six months.",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "title": "Cross-Border Academic Collaboration",
+      "speaker": "Dr. Elena Rostova",
+      "role": "Dean of International Studies",
+      "organization": "Munich University Partner",
+      "details": "Academic Board Advisor",
+      "duration": "4:10",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "category": "academic",
+      "quote": "Meru's exchange curriculums are rigorous, fully credited, and bring tremendous global diversity to our classrooms.",
+      "displayOrder": 3
+    }
+  ],
+  "historyMoments": [
+    {
+      "id": "1",
+      "year": "2019",
+      "title": "First London Forum",
+      "tag": "Event",
+      "grad": "from-blue-400 to-indigo-500",
+      "description": "Convening initial delegates and international partners in London.",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "year": "2021",
+      "title": "Tokyo Seminars Group",
+      "tag": "Academic",
+      "grad": "from-purple-400 to-pink-500",
+      "description": "Inaugural research delegation to Shinjuku faculties.",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "year": "2022",
+      "title": "Bogota Office Opening",
+      "tag": "Expansion",
+      "grad": "from-emerald-400 to-teal-500",
+      "description": "Opening the first regional headquarters in South America.",
+      "displayOrder": 3
+    },
+    {
+      "id": "4",
+      "year": "2023",
+      "title": "Corporate Review Board",
+      "tag": "Corporate",
+      "grad": "from-amber-400 to-orange-500",
+      "description": "Standardizing corporate ESG and compliance curricula.",
+      "displayOrder": 4
+    },
+    {
+      "id": "5",
+      "year": "2025",
+      "title": "Global Youth Congress",
+      "tag": "Summit",
+      "grad": "from-sky-400 to-blue-600",
+      "description": "Bringing together 500 youth leaders across 35 nations.",
+      "displayOrder": 5
+    },
+    {
+      "id": "6",
+      "year": "2026",
+      "title": "Africa Initiative Launch",
+      "tag": "Field",
+      "grad": "from-rose-400 to-purple-600",
+      "description": "Expanding grassroots missions and civic scholarships across West Africa.",
+      "displayOrder": 6
+    }
+  ],
+  "historyMilestones": [
+    {
+      "id": "1",
+      "year": "2010",
+      "title": "UPG Conference at ASCM",
+      "desc": "The Unreached People Groups (UPG) conference at the Asian Seminary of Christian Ministries (ASCM) became the seedbed for MERU. Rev. Dr. Roland Vaughan, coordinator of Church of God World Missions (COGWM) UPG Missions, served as keynote speaker, inspiring partnerships that later shaped MERU.",
+      "icon": "Compass",
+      "color": "border-blue-500 text-blue-600 bg-blue-50",
+      "imageGrad": "from-blue-400 to-indigo-500",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "year": "2010",
+      "title": "Birth of partnerships",
+      "desc": "The conference fostered collaborations among leaders and missionaries who were instrumental in developing MERU’s vision and strategies.",
+      "icon": "BookOpen",
+      "color": "border-purple-500 text-purple-600 bg-purple-50",
+      "imageGrad": "from-purple-400 to-pink-500",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "year": "2011",
+      "title": "Doctor of ministry research project",
+      "desc": "Dr. George Pappachen, an ASCM D.Min. graduate, conducted research on Christian Missions for the Unreached (CMU) among the Agta people of Palanan, Isabela, Philippines. His focus on 'gospel inculturation' documented best practices and laid the foundation for innovative UPG mission strategies.",
+      "icon": "Globe",
+      "color": "border-emerald-500 text-emerald-600 bg-emerald-50",
+      "imageGrad": "from-emerald-400 to-teal-500",
+      "displayOrder": 3
+    },
+    {
+      "id": "4",
+      "year": "2012",
+      "title": "Formation of MERU Global Team",
+      "desc": "Emerging from the mission's atmosphere of innovation and partnership, MERU Global Team was established as a new addition to organizations serving UPG missions worldwide. It stands as a testimony to the call of Christ to birthing ministries that connect people to the Great Commission.",
+      "icon": "Award",
+      "color": "border-amber-500 text-amber-600 bg-amber-50",
+      "imageGrad": "from-amber-400 to-orange-500",
+      "displayOrder": 4
+    },
+    {
+      "id": "5",
+      "year": "2020",
+      "title": "Global Expansion",
+      "desc": "Today, MERU has spread to nations across the world, launching training programs, hosting conferences, and building bridges between generations and cultures. Through these initiatives, MERU continues to gather people for the Great Commission, empowering Christians to reach the unreached with the Gospel.",
+      "icon": "HeartHandshake",
+      "color": "border-rose-500 text-rose-600 bg-rose-50",
+      "imageGrad": "from-rose-400 to-red-500",
+      "displayOrder": 5
+    }
+  ],
+  "newsArticles": [
+    {
+      "id": "1",
+      "date": "May 28, 2026",
+      "category": "Expansion",
+      "title": "Meru Global Team Establishes Regional Center in Bogota",
+      "desc": "Our South American operations office is now fully staffed and coordinating with municipal education departments to roll out subsidized civic fellowships.",
+      "grad": "from-blue-400 to-indigo-500",
+      "author": "Media Relations Board",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "date": "May 15, 2026",
+      "category": "Admissions",
+      "title": "Announcing the 2026 Youth Civic Leadership Fellowship Roster",
+      "desc": "Following a record 4,200 applicants, our advisory board has finalized the 120 delegates who will receive seed grant credentials and 6 months of civic coaching.",
+      "grad": "from-purple-400 to-pink-500",
+      "author": "Advisory Board",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "date": "April 10, 2026",
+      "category": "Partnerships",
+      "title": "Meru Partners with 12 New European Academic Councils",
+      "desc": "The joint agreement facilitates direct credit transfers and curriculum recognition, allowing exchange participants in Germany to earn ECTS credits smoothly.",
+      "grad": "from-emerald-400 to-teal-500",
+      "author": "International Office",
+      "displayOrder": 3
+    }
+  ],
+  "newsEvents": [
+    {
+      "id": "1",
+      "day": "12",
+      "month": "JUN",
+      "title": "Tokyo Semester Orientation Webinar",
+      "time": "10:00 AM UTC",
+      "location": "Zoom Virtual Session",
+      "desc": "An introduction for enrolled Tokyo exchange students. We will cover housing coordinates, university schedules, and translation apps.",
+      "displayOrder": 1
+    },
+    {
+      "id": "2",
+      "day": "20",
+      "month": "JUN",
+      "title": "Executive Corporate Governance Round",
+      "time": "02:00 PM UTC",
+      "location": "London Headquarters / Hybrid",
+      "desc": "A closed-door audit workshop for partner compliance directors. Covers ESG modeling and local regulatory risk audits.",
+      "displayOrder": 2
+    },
+    {
+      "id": "3",
+      "day": "05",
+      "month": "JUL",
+      "title": "Civic Fellowship Launch Summit",
+      "time": "01:00 PM UTC",
+      "location": "Global Broadcast Hub",
+      "desc": "The official inauguration for our 2026 delegates. Keynote lectures on civic policy drafting and stakeholder engagement metrics.",
+      "displayOrder": 3
+    }
+  ],
+  "contactSettings": {
+    "email": "contact@meruglobal.org",
+    "phone": "+1 (800) 555-MERU",
+    "officeHours": "Monday - Friday, 9am - 6pm EST",
+    "headquarters": "London, United Kingdom",
+    "branches": [
+      "Tokyo, Japan",
+      "Munich, Germany",
+      "Bogota, Colombia",
+      "Manila, Philippines"
+    ]
+  },
+  "inquiries": [],
+  "media": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5580c0f1-1d0c-428c-a5b2-8424d5dab218",
+    "slug": "home",
+    "title": "Home",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  },
+  {
+    "id": "3a9f9621-acec-4ceb-8921-bea46f2ad98f",
+    "slug": "about",
+    "title": "About Us",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  },
+  {
+    "id": "f52be769-71cb-47e0-880b-fb56afe66f37",
+    "slug": "history",
+    "title": "History",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  },
+  {
+    "id": "108f4910-2176-401c-993e-ef0c283bfe0c",
+    "slug": "programs",
+    "title": "Programs",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  },
+  {
+    "id": "3cc9b34d-c0fe-4152-9a55-fbed6a620f66",
+    "slug": "testimonials",
+    "title": "Testimonials",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  },
+  {
+    "id": "c3da8323-bb68-4c3a-9ab8-3e633e1f3bc3",
+    "slug": "contact",
+    "title": "Contact",
+    "content": "",
+    "status": "published",
+    "lastUpdated": "2026-08-16T13:21:26.291Z"
+  }
+]
